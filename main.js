@@ -20,3 +20,6 @@ else if (operacao == "/") {
     let resultado = numero1 / numero2
     document.write("O resultado da divisão é " + resultado + ".")
 }
+else {
+    document.write("Erro!")
+}
